@@ -13,3 +13,5 @@ Abra o arquivo HTML da calculadora em seu navegador web.
 Insira dois valores na calculadora.
 Escolha a operação desejada (adição, subtração, multiplicação ou divisão).
 Clique em "=" para obter o resultado.
+
+https://github.com/dionatandefreitas/Calculator/issues/1#issue-1561310822
